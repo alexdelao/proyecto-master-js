@@ -1,0 +1,19 @@
+body{
+    background: url('../img/rojo.jpg');
+}
+.logo{
+    background: rgb(204, 15, 56);
+}
+.menu{
+    background: rgb(204, 15, 56);
+}
+.menu a:hover{
+    background: lightcoral;
+    font-weight:bold;
+}
+.boton{
+    background: rgb(204, 15, 56);
+}
+form input[type='submit']{
+    background: rgb(204, 15, 56);
+}
